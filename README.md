@@ -1,3 +1,22 @@
+#Structure of the Code
+
+src/
+│── App.js
+│── index.js
+│
+├── components/
+│   └── ProtectedRoute.js
+│
+├── pages/
+│   ├── Welcome.js
+│   ├── Login.js
+│   ├── Register.js
+│   ├── Account.js
+│
+├── styles/
+│   └── global.css
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

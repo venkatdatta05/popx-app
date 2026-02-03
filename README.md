@@ -3,7 +3,6 @@
 src/
 │── App.js
 │── index.js
-
 │
 ├── components/
 │   └── ProtectedRoute.js
